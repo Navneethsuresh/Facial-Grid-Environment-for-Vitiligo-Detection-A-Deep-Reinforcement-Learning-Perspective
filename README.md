@@ -1,0 +1,2 @@
+# Facial-Grid-Environment-for-Vitiligo-Detection-A-Deep-Reinforcement-Learning-Perspective
+This research addresses the challenging task of vitiligo detection within facial images through the lens of Deep Reinforcement Learning (DRL). Leveraging the Skin Disease dataset from Kaggle, our study focuses on the integration of three distinct convolutional neural network architectures—ResNet, VGG, and EfficientNet.
